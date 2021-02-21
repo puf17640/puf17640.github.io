@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c004094a.chunk.css",
+    "main.js": "/static/js/main.113973aa.chunk.js",
+    "main.js.map": "/static/js/main.113973aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dab9aa4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dab9aa4e.js.map",
+    "static/js/2.5a5e7539.chunk.js": "/static/js/2.5a5e7539.chunk.js",
+    "static/js/2.5a5e7539.chunk.js.map": "/static/js/2.5a5e7539.chunk.js.map",
+    "static/js/3.5022c9f9.chunk.js": "/static/js/3.5022c9f9.chunk.js",
+    "static/js/3.5022c9f9.chunk.js.map": "/static/js/3.5022c9f9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c004094a.chunk.css.map": "/static/css/main.c004094a.chunk.css.map",
+    "static/js/2.5a5e7539.chunk.js.LICENSE.txt": "/static/js/2.5a5e7539.chunk.js.LICENSE.txt",
+    "static/media/420-game.c3abf341.png": "/static/media/420-game.c3abf341.png",
+    "static/media/index.css": "/static/media/BerlinRounded-Regular.fe948fb5.ttf",
+    "static/media/background.61b626e3.png": "/static/media/background.61b626e3.png",
+    "static/media/covid-detail.b94e12a9.png": "/static/media/covid-detail.b94e12a9.png",
+    "static/media/disease-sh.26736174.png": "/static/media/disease-sh.26736174.png",
+    "static/media/git-badges.ac480b6d.svg": "/static/media/git-badges.ac480b6d.svg",
+    "static/media/oreno-ramen.5b8c44f0.svg": "/static/media/oreno-ramen.5b8c44f0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dab9aa4e.js",
+    "static/js/2.5a5e7539.chunk.js",
+    "static/css/main.c004094a.chunk.css",
+    "static/js/main.113973aa.chunk.js"
+  ]
+}
